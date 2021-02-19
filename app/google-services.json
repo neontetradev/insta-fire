@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86495992",
+    "project_id": "filmshare-689d1",
+    "storage_bucket": "filmshare-689d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86495992:android:07132dd94b35d91596610d",
+        "android_client_info": {
+          "package_name": "com.neontetra.filmshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86495992-9tmfpe3u4npcoc5nbi0a1tobkpevog80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSF0vdV7jZ5EMsC4KemXnL1Lgd190qeWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86495992-9tmfpe3u4npcoc5nbi0a1tobkpevog80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
